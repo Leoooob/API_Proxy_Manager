@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "Proxy.API_Proxy_Manager.API_Proxy_Manager",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#API_Proxy_Manager-Display",
+        "navigationComponentName": "Proxy.API_Proxy_Manager",
+        "intentSemanticObject": "API_Proxy_Manager",
+        "intentAction": "Display",
+        "html5ApplicationName": "apiproxymanager",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "277bc5e6-78c4-4d20-90f1-25eab1f451e3"
+        ],
+        "contentPackages": [
+            "b6649524-1e9a-4528-9b18-4bc0501e1ee8"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "API Proxy Manager",
+        "subtitle": "Proof of Concept",
+        "searchKeywords": "API Proxy Manager,Proof of Concept",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
